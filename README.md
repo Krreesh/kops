@@ -1,5 +1,7 @@
 # kOps - Kubernetes Operations
 
+<h2> <a href="https://github.com/Krreesh/kops/tree/master/docs/getting_started"> Getting Started with kOps on AWS </a> </h2>
+
 [![Go Report Card](https://goreportcard.com/badge/k8s.io/kops)](https://goreportcard.com/report/k8s.io/kops)  [![GoDoc Widget]][GoDoc]
 
 [GoDoc]: https://pkg.go.dev/k8s.io/kops
